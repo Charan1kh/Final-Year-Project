@@ -1,4 +1,4 @@
-_DEEPFAKE CREATION AND DETECTION_
+ _DEEPFAKE CREATION AND DETECTION_
 ## Introduction
 This project focuses on the creation and detection of deepfakes using Cycle GANs. Deepfakes are synthetic media where a person in an existing image or video is replaced with someone else's likeness. Our goal is to provide an effective solution for both generating and detecting deepfakes to address potential threats to privacy, democracy, and security.
 
