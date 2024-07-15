@@ -15,12 +15,15 @@ https://github.com/Charan1kh/Deepfake-Creation-Detection/blob/main/github_assets
 #
 ## Methods Used
 In this project, we employed Generative Adversarial Networks (GANs), particularly Cycle GANs, to create and detect deepfakes. Cycle GANs excel in image-to-image translation without requiring paired training data, ensuring realistic and consistent results. Convolutional Neural Networks (CNNs) were used for both generating and recognizing patterns in images. For deepfake detection, we fine-tuned pre-trained models using transfer learning, enhancing accuracy and efficiency. Data augmentation techniques, such as random cropping and flipping, were implemented to diversify the training data, improving model generalization. Performance metrics like accuracy, precision, recall, and F1 score were used to evaluate our models' effectiveness.
+
 ![alt text](https://github.com/Charan1kh/Deepfake-Creation-Detection/blob/main/github_assets/imgs/SystemArchitecture.png?raw=true)
 #
 ## Project Structure
 Overall the strucutre should look like this:
+
 ![alt text](
 https://github.com/Charan1kh/Deepfake-Creation-Detection/blob/main/github_assets/imgs/ProjectStructure.png?raw=true)
+
 #
 ## Technical Requirements
 Software: Python, PyTorch
@@ -63,7 +66,6 @@ This confirms that PyTorch is installed correctly and that we are all using the 
 High Accuracy: Achieved significant accuracy in detecting deepfakes, outperforming existing models.
 Realistic Deepfakes: Generated deepfake images and videos that are almost indistinguishable from real ones.
 Effective Detection: Developed methods that effectively identify AI-generated fake videos.
-
 
 ![alt text](
 https://github.com/Charan1kh/Deepfake-Creation-Detection/blob/main/github_assets/imgs/detectionpg.png?raw=true)
